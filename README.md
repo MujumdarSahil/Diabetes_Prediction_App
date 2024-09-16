@@ -17,3 +17,5 @@ This desktop application predicts the likelihood of diabetes based on user input
 2. Install dependencies using:
    ```bash
    pip install joblib pandas Pillow tkinter
+3. Run the project using:
+    python src/gui.py
